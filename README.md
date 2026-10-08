@@ -1,6 +1,6 @@
 # Nyaya Mitra — न्याय मित्र
 
-Free Indian legal help app for Android, in **Hindi and English**. Built by Anand.
+Free Indian legal help app for Android, in **Hindi and English**. Created by Anand Priy.
 
 ## ⬇️ Download
 
@@ -14,8 +14,8 @@ All versions: [Releases](https://github.com/anandp-sys/NyayaMitra-download/relea
 - **42 guides** for common criminal, civil, family, property, money, consumer, cyber and job problems. Each one lists the laws that apply, your next steps in order, documents to keep ready, time limits and where to get free help.
 - **Law library:** old IPC/CrPC/Evidence Act sections mapped to the new BNS/BNSS/BSA, limitation periods, key Supreme Court judgments, and helplines with a call button.
 - **Listen:** reads any guide aloud in Hindi or English.
-- Works **offline**. No login, no ads, no charges.
-- Optional: paste your own free Google Gemini key in Settings to get AI answers for your exact situation.
+- Guides work **offline**. No login, no ads, no charges.
+- **Ask Anand Priy:** free automatic answers for your exact situation, in Hindi or English. Needs internet; no key or sign-up. There is a shared daily limit, and when it runs out the offline guides keep working.
 
 ## How to install
 
